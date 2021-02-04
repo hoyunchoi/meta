@@ -1,1 +1,1 @@
-# meta
+# epidemics on meta population model
